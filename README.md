@@ -18,6 +18,8 @@ This is a simple task of creating a schema list for segment
 
 ## Steps to clone and run the application
 
+* git clone [https://github.com/Saravanakumarke/Customer_Labs](https://github.com/Saravanakumarke/Customer_Labs) 
+
 * npm install 
 
 * npm start
