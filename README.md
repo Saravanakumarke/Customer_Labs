@@ -26,6 +26,8 @@ This is a simple task of creating a schema list for segment
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+Live App [https://segmentlist.netlify.app/](https://segmentlist.netlify.app/)
+
 ## Contact 
 
 ### Email - saravanaeswari22@gmail.com
