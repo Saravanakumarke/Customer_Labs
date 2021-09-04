@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+.btn {
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background: #55ab67;
+    color: #ffffff;
+    font-family: Poppins;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+  }
+
+  .header
+  {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .header h6
+  {
+    font-weight: 700;
+    font-family: Poppins;
+  }
+
+  .cancel
+  {
+    cursor: pointer;
+  }
+
+  .lineWrapper {
+    display: flex;
+    justify-content: center;
+  }
+  .line {
+    border-bottom: 1px solid rgba(187, 41, 41, 0.152);
+    padding-top: 1em;
+    width: 100%;
+  }
+
+  .content
+  {
+    padding-top: 1em;
+    font-family: Poppins;
+    font-size: 15px;
+  }
+
+  .input
+  {
+    padding-top: 15px;
+  }
+
+  .name 
+  {
+    width: 70%;
+    padding: 0.75em 0.50rem;
+  }
+  .name:focus
+  {
+    outline: none;
+    border:2px solid rgb(86, 121, 235);
+    box-shadow: 0 0 10px #719ECE;
+  }
+
+  .text
+  {
+    padding-top: 1em;
+  }
+.dot_con
+{
+  display: flex;
+  gap: 25px;
+  justify-content: end;
+  padding-top: 1em;
+}
+.dot
+{
+    display: flex;
+    gap: 10px;
+}
+.option
+{
+    height: 15px;
+    width: 15px;
+    background-color: red;
+    border-radius: 50%;
+    padding-top: 15px;
+}
+
+.optionone
+{
+    height: 15px;
+    width: 15px;
+    background-color: rgb(9, 255, 0);
+    border-radius: 50%;
+    padding-top: 15px;
+}
+
+.select {
+  padding: 1rem 0.75rem;
+  border-radius: 0.25rem;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  width: 100%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.select:hover
+{
+  border: 1px solid rgb(0, 0, 0);
+}
+.searchWrapper svg:not(:root) 
+{
+  overflow: hidden;
+}
+.searchWrapper 
+{
+  display: flex;
+  margin: 1rem;
+}
+.searchWrapper svg 
+{
+  top: 1rem;
+  right: 2.3rem;
+  bottom: 0;
+  position: relative;
+}
+.container
+{
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+  align-items: center;  
+}
+.bluecontainer
+{
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+  align-items: center;  
+}
+.re_dot
+{
+  height: 15px;
+  width: 15px;
+  background-color: #bbb;
+  border-radius: 50%;
+  padding-top: 15px;
+}
+.btncan
+{
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background: #e8ece971;
+  color: #000;
+  font-family: Poppins;
+  height: 2em;
+  
+}
+.add
+{
+  color: rgb(2, 185, 2);
+  text-decoration: underline;
+  cursor: pointer;
+}
+.footer
+{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding-top: 30px;
+}
+.btnone
+{
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background: #55ab67;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: Poppins;
+}
+.btntwo
+{
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background: #ddd;
+  border-radius: 5px;
+  color: #f05;
+  font-family: Poppins;
+}
